@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mascotas5</string>
+
+    <!--    Acerca de activity-->
+    <string name="nombre">Guillermo Hernández</string>
+    <string name="contenido">
+    </string>
+</resources>
